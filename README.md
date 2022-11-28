@@ -8,5 +8,16 @@ The template contains:
 * CI/CD pipeline template
 * Pull_Request template
 
+## Branching Convetions
+
+* main
+* staging  
+* production
+
+The three branches should be created in all repositories in the organization.
+
+
+
+
 > *Please create a pull request to the main branch if you think there are any other trivial things to be added in the template. This template is created to speeden up the project initalization in github*
   
