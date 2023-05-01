@@ -4,7 +4,7 @@
   "description": "![logo](https://asterdio.com/wp-content/uploads/2022/06/asterdio-light.png)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "terraform fmt --recursive",
     "prepare": "husky install"
   },
   "repository": {
