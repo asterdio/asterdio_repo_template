@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.0.0...v1.1.0) (2023-05-01)
+
+
+### Features
+
+* added changeling and semver support on conventional commit ([8af9889](https://github.com/mokkapps/changelog-generator-demo/commits/8af9889990fb3fb6a4e41539dbb8c36cd28d16d9))
+
 ## 1.0.0 (2023-05-01)
 
 
