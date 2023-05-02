@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/asterdio/asterdio_repo_template/compare/v1.4.0...v1.4.1) (2023-05-02)
+
+
+### Bug Fixes
+
+* removed usrUrl frm changelog ([fd1e1b8](https://github.com/asterdio/asterdio_repo_template/commits/fd1e1b8ae9f541d84414c4a41f150fa0b5cbb2da))
+
 ## [1.4.0](https://github.com/asterdio/asterdio_repo_template/compare/v1.3.2...v1.4.0) (2023-05-02)
 
 
