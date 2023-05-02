@@ -30,5 +30,5 @@ Application versioning
 </code>
 
 <code>
-   - .git/hooks/*
+   - chmod .git/hooks/*
 </code>
