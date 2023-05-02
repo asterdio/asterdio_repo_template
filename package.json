@@ -24,11 +24,9 @@
   },
   "homepage": "https://github.com/asterdio/asterdio_repo_template#readme",
   "devDependencies": {
+    "@commitlint/cli": "^17.6.1",
+    "@commitlint/config-conventional": "^17.6.1",
     "husky": "^8.0.0",
     "standard-version": "^9.5.0"
-  },
-  "dependencies": {
-    "@commitlint/cli": "^17.6.1",
-    "@commitlint/config-conventional": "^17.6.1"
   }
 }
