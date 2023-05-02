@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/asterdio/asterdio_repo_template/compare/v1.3.2...v1.4.0) (2023-05-02)
+
+
+### Features
+
+* username addition on changelog ([2661f0e](https://github.com/asterdio/asterdio_repo_template/commits/2661f0e130bcd53c1de7fe1860e16e66a65af559))
+
 ### [1.3.2](https://github.com/asterdio/asterdio_repo_template/compare/v1.3.1...v1.3.2) (2023-05-02)
 
 
