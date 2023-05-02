@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/asterdio/asterdio_repo_template/compare/v1.3.1...v1.3.2) (2023-05-02)
+
+
+### Documentation
+
+* script permisson docs fix ([32f39ba](https://github.com/asterdio/asterdio_repo_template/commits/32f39bab2b93a7295196af3abb0a02c0ea7cc2b0))
+
 ### [1.3.1](https://github.com/asterdio/asterdio_repo_template/compare/v1.3.1-staging.0...v1.3.1) (2023-05-02)
 
 
