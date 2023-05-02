@@ -16,3 +16,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 * changed pre-commit npm script to npm pre-commit ([bf3c2b2](https://github.com/asterdio/asterdio_repo_template/commits/bf3c2b2ab8a434967da77541a5c5ea311d53acdb))
 * commit url changed and manual older changelog changed ([07c7676](https://github.com/asterdio/asterdio_repo_template/commits/07c767649a1a6681ba5399c1b59bc9080343b420))
+
