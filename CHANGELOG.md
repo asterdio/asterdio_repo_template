@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/asterdio/asterdio_repo_template/compare/v1.3.1-staging.0...v1.3.1) (2023-05-02)
+
+
+### Bug Fixes
+
+* migrate from dep to devDep ([c298ba0](https://github.com/asterdio/asterdio_repo_template/commits/c298ba09f25b96a5d9bc5a7e420688f7380492c9))
+
 ### [1.3.1-staging.0](https://github.com/asterdio/asterdio_repo_template/compare/v1.3.0...v1.3.1-staging.0) (2023-05-02)
 
 
