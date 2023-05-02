@@ -9,9 +9,7 @@
       { "type": "perf", "hidden": true },
       { "type": "test", "hidden": true }
     ],
-    "host": "https://github.com",
     "commitUrlFormat": "https://github.com/asterdio/asterdio_repo_template/commits/{{hash}}",
-    "compareUrlFormat": "https://github.com/asterdio/asterdio_repo_template/compare/{{previousTag}}...{{currentTag}}",
-    "userUrlFormat": "{{host}}/{{user}}"
+    "compareUrlFormat": "https://github.com/asterdio/asterdio_repo_template/compare/{{previousTag}}...{{currentTag}}"
   }
   
