@@ -4,7 +4,7 @@
   "description": "![logo](https://asterdio.com/wp-content/uploads/2022/06/asterdio-light.png)",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Sample pre commit test working fine'",
+    "pre-commit": "git add .",
     "prepare": "husky install",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
