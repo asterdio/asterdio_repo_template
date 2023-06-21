@@ -4,7 +4,7 @@
   "description": "![logo](https://asterdio.com/wp-content/uploads/2022/06/asterdio-light.png)",
   "main": "index.js",
   "scripts": {
-    "pre-commit": "git add .",
+    "pre-commit": "some formatting and linting codes",
     "prepare": "husky install",
     "release": "standard-version",
     "release:staging": "standard-version -t staging",
